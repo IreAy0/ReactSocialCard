@@ -20,3 +20,28 @@
 .App-link {
   color: #09d3ac;
 }
+.headerArea h6{
+  color:black;
+  margin-bottom: 0!important;
+}
+.headerArea h6 span{
+  columns: #777777;;
+  font-size:.7rem;
+}
+.headerArea p {
+font-size:1rem;
+margin-bottom:0!important;
+}
+.headerArea p span{
+  color:lightskyblue;
+}
+.test{
+ width:600px;
+ margin:1.75px auto;
+  
+  text-align: left;
+  border-bottom:1px solid #3e3e3e;
+  padding-bottom:1rem;
+  padding-top:1rem;
+  display:flex;
+}
